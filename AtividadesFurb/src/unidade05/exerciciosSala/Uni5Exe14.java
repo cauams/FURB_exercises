@@ -1,4 +1,4 @@
-package unidade05;
+package unidade05.exerciciosSala;
 
 import java.util.Scanner;
 
