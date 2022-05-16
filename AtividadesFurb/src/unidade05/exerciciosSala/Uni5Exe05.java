@@ -8,7 +8,6 @@ public class Uni5Exe05 {
         System.out.println("quantas vezes você quer que essa operação ocorra");
         int numerovezes = scanner.nextInt();
        
-       int numb = 6;
        int num2 = 2;
        int result = 6;
        int soma = 8;
