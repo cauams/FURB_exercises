@@ -16,6 +16,8 @@ public class Uni5Exe12 {
                 result += 1;
             }
             System.out.println();
+            
+            sc.close();
         }
     }
 }
