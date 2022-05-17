@@ -40,8 +40,8 @@ public class Uni5Exe17 {
 		double max = alturaAtletas.stream().max(Comparator.naturalOrder()).get();
 		double min = alturaAtletas.stream().min(Comparator.naturalOrder()).get();
 		
-		System.out.println("O número de inscrição do maior atleta é: " + alturaAtletas.get(maxIndex) + " e a sua altura é de: " + max + "m");
-		System.out.println("O número de inscrição do menor atleta é: " + alturaAtletas.get(minIndex) + " e a sua altura é de: " + min + "m");
+		System.out.println("O número de inscrição do maior atleta é: " + numeroInscricaoAtletas.get(maxIndex) + " e a sua altura é de: " + max + "m");
+		System.out.println("O número de inscrição do menor atleta é: " + numeroInscricaoAtletas.get(minIndex) + " e a sua altura é de: " + min + "m");
 		
 		System.out.println("Média geral das alturas dos competidores: " + somaAltura / numeroAtletas);
 		
