@@ -59,5 +59,6 @@ public class Uni5Exe14 {
 
             }
             System.out.println(result);
+            sc.close();
     }
 }
