@@ -2,13 +2,11 @@ package unidade05.exerciciosSala;
 
 import java.util.Scanner;
 
-import javax.swing.text.StyledEditorKit.BoldAction;
 
 public class Uni5Exe25 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Escreva os pontos");
-        int maiorPontuador;
         int pontosD = 0;
         int pontosE = 0;
         boolean continuar = true;
@@ -52,5 +50,7 @@ public class Uni5Exe25 {
             }
         }
         System.out.println("ganhou");
+
+        sc.close();
     }
 }
