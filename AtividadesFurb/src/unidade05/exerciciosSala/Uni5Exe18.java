@@ -32,7 +32,9 @@ public class Uni5Exe18 {
            
             double valor  = porcetagem *  totalCasasCanal[i];
             System.out.println("porcentagem casas canal "+totalCanals[i]+" = " + valor);  
-            i++;
+            i++;           
         }
+
+        sc.close();
     }
 }
