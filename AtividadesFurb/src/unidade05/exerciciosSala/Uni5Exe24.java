@@ -23,5 +23,6 @@ public class Uni5Exe24 {
                 continuar = false;
             }
         }
+        sc.close();
     }
 }
