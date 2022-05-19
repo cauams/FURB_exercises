@@ -9,8 +9,6 @@ public class Uni5Exe23 {
 		
 		
 		
-		// int qnt = 0;
-		double precoProduto = 0.0;
 		double salario = 0.0;
 		double totalVendas = 0.0;
 		double comissao = 0.0;
