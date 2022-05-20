@@ -59,5 +59,7 @@ public class Uni5Exe29 {
         totalNotas += "\n 1 - " + qtdNotas1; 
 
         System.out.println(totalNotas);
+
+        sc.close();
     }
 }
