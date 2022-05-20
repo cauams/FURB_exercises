@@ -30,7 +30,6 @@ public class Uni5Exe08 {
         System.out.println("O menor número negativo é: " + getMin(numberlist));
         System.out.println("A média dos números positivos é de: " +  numerosPositivos / qntNumerosPositivos);
         
-
         scanner.close();
     }
 
