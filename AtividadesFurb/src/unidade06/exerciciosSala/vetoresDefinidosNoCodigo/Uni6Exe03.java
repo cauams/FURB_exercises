@@ -11,6 +11,7 @@ public class Uni6Exe03 {
         ajustar(array);
         escrever(array);
     }
+
     private static void ler(double array[]) {
         for (int i = 0; i < 12; i++) {
             Scanner scanner = new Scanner(System.in);
@@ -18,8 +19,9 @@ public class Uni6Exe03 {
             array[i] = scanner.nextInt();
         }
     }
+
     private static void ajustar(double array[]) {
-        for (int i = 0; i < 12; i ++) {
+        for (int i = 0; i < 12; i++) {
             if (i % 2 != 0) {
                 array[i] += array[i] * 0.5;
             } else {
@@ -27,13 +29,14 @@ public class Uni6Exe03 {
             }
         }
 
-        }
+    }
+
     private static void escrever(double Array[]) {
         for (int i = 0; i < 12; i++) {
             System.out.println(Array[i]);
         }
     }
-    }
+}
 
 
 
