@@ -1,4 +1,4 @@
-package AtividadesFurb.src.unidade06.exerciciosSala.vetoresDefinidosNoCodigo;
+package src.unidade06.exerciciosSala.vetoresDefinidosNoCodigo;
 
 import java.util.Scanner;
 
