@@ -1,3 +1,4 @@
+
 package unidade06.exerciciosSala.vetoresDefinidosNoCodigo;
 
 import java.util.Scanner;
