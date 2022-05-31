@@ -1,4 +1,4 @@
-package src.unidade06.exerciciosSala.vetoresDefinidosNoCodigo;
+package unidade06.exerciciosSala.vetoresDefinidosNoCodigo;
 
 import java.util.Locale;
 import java.util.Scanner;
